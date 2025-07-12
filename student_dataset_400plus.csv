@@ -1,0 +1,435 @@
+ID,Name,Age,Gender,Math,Science,English,Programming,Communication,Creativity,Interest Area,Extra Activities,Preferred Subject,Career Goal
+1,Aashish,17,M,89,92,78,8.5,6,7,Engineering,Robotics Club,Physics,Engineer
+2,Sarita,16,F,85,88,90,7.8,8.5,8,Medicine,Debate Team,Biology,Doctor
+3,Rohit,18,M,92,87,82,9,7,6.5,Computer Science,Chess Club,Programming,Software Developer
+4,Anjali,17,F,78,80,85,6.5,7.5,9,Art,Drama Club,English,Graphic Designer
+5,Kiran,16,M,90,85,79,8,6.5,7.5,Physics,Science Club,Physics,Physicist
+6,Priya,17,F,88,90,92,7.5,8,8.5,Engineering,Music Band,Mathematics,Engineer
+7,Deepak,18,M,83,86,80,8.8,6.8,7.2,Data Science,Coding Club,Statistics,Data Scientist
+8,Nisha,16,F,80,82,88,6.8,7.8,8.2,Biology,Environmental Club,Biology,Biologist
+9,Vikram,17,M,87,89,75,8.2,6.2,6.8,Engineering,Sports Team,Chemistry,Engineer
+10,Meena,18,F,84,87,90,7.2,8.2,8.8,Literature,Book Club,English,Writer
+11,Ajay,16,M,91,93,77,9.2,6.5,7,Mathematics,Math Olympiad,Mathematics,Mathematician
+12,Sneha,17,F,86,88,89,7,7.5,8,Medicine,Volunteer Group,Biology,Surgeon
+13,Ravi,18,M,88,84,81,8.5,6.8,7.5,Computer Science,Gaming Club,Programming,Game Developer
+14,Kavita,16,F,82,85,87,6.5,7.2,8.5,Psychology,Debate Team,Psychology,Psychologist
+15,Arjun,17,M,90,91,78,8.7,6,7,Physics,Astronomy Club,Physics,Astrophysicist
+16,Shreya,18,F,85,89,91,7.8,8,8.2,Engineering,Robotics Club,Mathematics,Engineer
+17,Mohan,16,M,87,86,80,8,6.5,7.2,Data Science,Coding Club,Statistics,Data Analyst
+18,Radha,17,F,81,83,89,6.7,7.7,8.3,Art,Painting Club,Art,Artist
+19,Suresh,18,M,89,90,76,8.9,6.3,6.7,Engineering,Sports Team,Physics,Engineer
+20,Divya,16,F,83,87,90,7.3,8.3,8.7,Literature,Drama Club,English,Journalist
+21,Amit,17,M,86,88,79,8.3,6.7,7.3,Computer Science,Hackathon Team,Programming,AI Researcher
+22,Neha,16,F,84,86,88,7.5,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+23,Varun,18,M,91,89,80,8.6,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+24,Pooja,17,F,79,82,87,6.9,7.6,8.6,Psychology,Volunteer Group,Psychology,Therapist
+25,Siddharth,16,M,88,90,78,8.4,6.6,7.4,Physics,Science Club,Physics,Physicist
+26,Riya,17,F,85,87,90,7.7,8.1,8.3,Engineering,Music Band,Mathematics,Engineer
+27,Aditya,18,M,87,85,81,8.7,6.9,7,Data Science,Coding Club,Statistics,Data Scientist
+28,Lakshmi,16,F,82,84,89,6.6,7.8,8.5,Biology,Environmental Club,Biology,Biologist
+29,Nikhil,17,M,90,91,77,8.8,6.3,6.9,Engineering,Sports Team,Physics,Engineer
+30,Ananya,18,F,84,88,91,7.4,8,8.7,Literature,Book Club,English,Writer
+31,Rahul,16,M,89,92,79,9,6.7,7.2,Mathematics,Math Olympiad,Mathematics,Mathematician
+32,Simran,17,F,86,89,90,7.6,7.7,8.1,Medicine,Volunteer Group,Biology,Surgeon
+33,Kunal,18,M,88,86,80,8.6,6.8,7.3,Computer Science,Gaming Club,Programming,Game Developer
+34,Preeti,16,F,81,83,88,6.8,7.5,8.4,Psychology,Debate Team,Psychology,Psychologist
+35,Shaurya,17,M,91,90,78,8.9,6.2,7,Physics,Astronomy Club,Physics,Astrophysicist
+36,Tanya,18,F,85,88,91,7.9,8.2,8.6,Engineering,Robotics Club,Mathematics,Engineer
+37,Vivek,16,M,87,85,80,8.1,6.6,7.5,Data Science,Coding Club,Statistics,Data Analyst
+38,Saumya,17,F,80,82,89,6.7,7.9,8.7,Art,Painting Club,Art,Artist
+39,Manish,18,M,89,91,76,8.8,6.4,6.8,Engineering,Sports Team,Physics,Engineer
+40,Avani,16,F,83,87,90,7.5,8.1,8.8,Literature,Drama Club,English,Journalist
+41,Pranav,17,M,86,89,78,8.4,6.5,7.1,Computer Science,Hackathon Team,Programming,AI Researcher
+42,Shalini,16,F,84,86,89,7.6,7.8,8.3,Medicine,Science Fair,Biology,Doctor
+43,Yash,18,M,90,88,79,8.7,6.3,7.2,Engineering,Robotics Club,Chemistry,Engineer
+44,Richa,17,F,79,81,88,6.8,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+45,Abhishek,16,M,89,90,77,8.5,6.6,7.3,Physics,Science Club,Physics,Physicist
+46,Akanksha,17,F,86,88,91,7.8,8,8.4,Engineering,Music Band,Mathematics,Engineer
+47,Gaurav,18,M,88,86,80,8.6,6.7,7,Data Science,Coding Club,Statistics,Data Scientist
+48,Swati,16,F,82,84,89,6.9,7.9,8.6,Biology,Environmental Club,Biology,Biologist
+49,Rajesh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+50,Shivani,18,F,84,87,90,7.5,8.2,8.8,Literature,Book Club,English,Writer
+51,Harsh,16,M,88,92,78,9.1,6.5,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+52,Monika,17,F,85,89,91,7.7,7.8,8.2,Medicine,Volunteer Group,Biology,Surgeon
+53,Ankit,18,M,87,85,81,8.7,6.9,7.4,Computer Science,Gaming Club,Programming,Game Developer
+54,Rashmi,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+55,Dev,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+56,Chitra,18,F,86,88,90,7.9,8.1,8.7,Engineering,Robotics Club,Mathematics,Engineer
+57,Sanjay,16,M,88,86,80,8.2,6.7,7.5,Data Science,Coding Club,Statistics,Data Analyst
+58,Pallavi,17,F,80,82,89,6.8,7.8,8.6,Art,Painting Club,Art,Artist
+59,Vinay,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+60,Komal,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+61,Rakesh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+62,Seema,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+63,Aryan,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+64,Geeta,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+65,Rohan,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+66,Anita,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+67,Sumit,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+68,Lata,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+69,Alok,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+70,Suman,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+71,Vikas,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+72,Neelam,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+73,Jatin,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+74,Kirti,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+75,Om,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+76,Vaishali,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+77,Naveen,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+78,Sarika,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+79,Akash,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+80,Reena,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+81,Mayank,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+82,Shilpa,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+83,Chetan,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+84,Bhavna,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+85,Soham,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+86,Tisha,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+87,Krish,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+88,Mitali,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+89,Prateek,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+90,Nandini,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+91,Sameer,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+92,Anju,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+93,Hitesh,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+94,Kanika,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+95,Tejas,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+96,Sakshi,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+97,Mahesh,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+98,Parul,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+99,Vishal,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+100,Arti,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+101,Aman,17,M,86,89,78,8.4,6.5,7.1,Computer Science,Hackathon Team,Programming,AI Researcher
+102,Khushi,16,F,84,86,89,7.6,7.8,8.3,Medicine,Science Fair,Biology,Doctor
+103,Devansh,18,M,90,88,79,8.7,6.3,7.2,Engineering,Robotics Club,Chemistry,Engineer
+104,Ritika,17,F,79,81,88,6.8,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+105,Shubham,16,M,89,90,77,85,6.6,7.3,Physics,Science Club,Physics,Physicist
+106,Meera,17,F,86,88,91,7.8,8,8.4,Engineering,Music Band,Mathematics,Engineer
+107,Raj,18,M,88,86,80,8.6,6.7,7,Data Science,Coding Club,Statistics,Data Scientist
+108,Sonia,16,F,82,84,89,6.9,7.9,8.6,Biology,Environmental Club,Biology,Biologist
+109,Kartik,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+110,Payal,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+111,Abhay,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+112,Nidhi,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+113,Vedant,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+114,Shruti,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+115,Ishaan,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+116,Aarohi,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+117,Pratik,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+118,Manisha,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+119,Anirudh,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+120,Disha,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+121,Rishabh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+122,Poonam,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+123,Vihaan,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+124,Aditi,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+125,Ayush,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+126,Saanvi,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+127,Arnav,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+128,Kalpana,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+129,Rudra,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+130,Trisha,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+131,Parth,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+132,Anushka,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+133,Kabir,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+134,Suman,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+135,Advait,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+136,Naina,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+137,Shivam,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+138,Rekha,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+139,Yuvraj,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+140,Kavya,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+141,Lokesh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+142,Supriya,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+143,Tarun,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+144,Vidya,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+145,Hrithik,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+146,Zara,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+147,Akshay,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+148,Leela,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+149,Girish,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+150,Charu,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+151,Ranjan,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+152,Jyoti,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+153,Samir,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+154,Tanu,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+155,Vihan,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+156,Palak,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+157,Nitin,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+158,Amrita,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+159,Suraj,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+160,Neetu,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+161,Pradeep,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+162,Kiran,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+163,Veer,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+164,Smita,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+165,Arpit,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+166,Rupali,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+167,Sagar,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+168,Priya,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+169,Jayesh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+170,Shweta,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+171,Atul,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+172,Divya,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+173,Rohit,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+174,Ankita,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+175,Sahil,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+176,Meghna,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+177,Anmol,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+178,Saroj,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+179,Mukesh,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+180,Ragini,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+181,Sumit,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+182,Lalita,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+183,Viraj,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+184,Shalini,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+185,Adarsh,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+186,Pooja,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+187,Rajat,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+188,Komal,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+189,Saurabh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+190,Neha,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+191,Vinod,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+192,Anjali,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+193,Karan,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+194,Sneha,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+195,Akshat,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+196,Tara,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+197,Manan,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+198,Radhika,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+199,Ram,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+200,Simran,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+201,Akhil,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+202,Preeti,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+203,Arjun,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+204,Kavita,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+205,Yuvraj,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+206,Sakshi,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+207,Nikhil,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+208,Lakshmi,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+209,Vivek,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+210,Ananya,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+211,Rahul,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+212,Monika,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+213,Kunal,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+214,Rashmi,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+215,Shaurya,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+216,Tanya,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+217,Mohan,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+218,Saumya,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+219,Manish,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+220,Avani,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+221,Pranav,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+222,Shalini,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+223,Yash,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+224,Richa,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+225,Abhishek,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+226,Akanksha,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+227,Gaurav,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+228,Swati,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+229,Rajesh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+230,Shivani,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+231,Harsh,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+232,Nidhi,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+233,Vedant,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+234,Shruti,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+235,Ishaan,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+236,Aarohi,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+237,Pratik,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+238,Manisha,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+239,Anirudh,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+240,Disha,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+241,Rishabh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+242,Poonam,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+243,Vihaan,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+244,Aditi,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+245,Ayush,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+246,Saanvi,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+247,Arnav,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+248,Kalpana,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+249,Rudra,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+250,Trisha,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+251,Parth,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+252,Anushka,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+253,Kabir,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+254,Suman,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+255,Advait,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+256,Naina,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+257,Shivam,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+258,Rekha,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+259,Yuvraj,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+260,Kavya,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+261,Lokesh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+262,Supriya,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+263,Tarun,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+264,Vidya,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+265,Hrithik,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+266,Zara,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+267,Akshay,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+268,Leela,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+269,Girish,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+270,Charu,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+271,Ranjan,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+272,Jyoti,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+273,Samir,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+274,Tanu,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+275,Vihan,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+276,Palak,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+277,Nitin,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+278,Amrita,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+279,Suraj,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+280,Neetu,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+281,Pradeep,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+282,Kiran,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+283,Veer,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+284,Smita,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+285,Arpit,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+286,Rupali,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+287,Sagar,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+288,Priya,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+289,Jayesh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+290,Shweta,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+291,Atul,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+292,Divya,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+293,Rohit,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+294,Ankita,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+295,Sahil,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+296,Meghna,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+297,Anmol,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+298,Saroj,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+299,Mukesh,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+300,Ragini,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+301,Sumit,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+302,Lalita,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+303,Viraj,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+304,Shalini,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+305,Adarsh,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+306,Pooja,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+307,Rajat,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+308,Komal,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+309,Saurabh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+310,Neha,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+311,Vinod,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+312,Anjali,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+313,Karan,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+314,Sneha,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+315,Akshat,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+316,Tara,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+317,Manan,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+318,Radhika,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+319,Ram,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+320,Simran,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+321,Akhil,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+322,Preeti,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+323,Arjun,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+324,Kavita,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+325,Yuvraj,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+326,Sakshi,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+327,Nikhil,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+328,Lakshmi,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+329,Vivek,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+330,Ananya,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+331,Rahul,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+332,Monika,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+333,Kunal,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+334,Rashmi,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+335,Shaurya,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+336,Tanya,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+337,Mohan,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+338,Saumya,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+339,Manish,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+340,Avani,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+341,Pranav,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+342,Shalini,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+343,Yash,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+344,Richa,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+345,Abhishek,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+346,Akanksha,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+347,Gaurav,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+348,Swati,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+349,Rajesh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+350,Shivani,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+351,Harsh,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+352,Nidhi,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+353,Vedant,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+354,Shruti,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+355,Ishaan,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+356,Aarohi,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+357,Pratik,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+358,Manisha,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+359,Anirudh,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+360,Disha,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+361,Rishabh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+362,Poonam,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+363,Vihaan,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+364,Aditi,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+365,Ayush,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+366,Saanvi,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+367,Arnav,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+368,Kalpana,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+369,Rudra,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+370,Trisha,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+371,Parth,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+372,Anushka,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Beg,Biology,Surgeon
+373,Kabir,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+374,Suman,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+375,Advait,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+376,Naina,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+377,Shivam,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+378,Rekha,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+379,Yuvraj,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+380,Kavya,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+381,Lokesh,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+382,Supriya,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+383,Tarun,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+384,Vidya,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+385,Hrithik,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+386,Zara,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+387,Akshay,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+388,Leela,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+389,Girish,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+390,Charu,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+391,Ranjan,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+392,Jyoti,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+393,Samir,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+394,Tanu,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+395,Vihan,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+396,Palak,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+397,Nitin,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+398,Amrita,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+399,Suraj,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+400,Neetu,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+401,Pradeep,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+402,Kiran,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+403,Veer,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+404,Smita,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+405,Arpit,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+406,Rupali,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+407,Sagar,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+408,Priya,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+409,Jayesh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+410,Shweta,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+411,Atul,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+412,Divya,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+413,Rohit,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+414,Ankita,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
+415,Sahil,17,M,90,91,77,8.8,6.3,7,Physics,Astronomy Club,Physics,Astrophysicist
+416,Meghna,18,F,86,88,90,7.9,8.1,8.6,Engineering,Robotics Club,Mathematics,Engineer
+417,Anmol,16,M,88,86,80,8.2,6.8,7.5,Data Science,Coding Club,Statistics,Data Analyst
+418,Saroj,17,F,80,82,89,6.8,7.8,8.7,Art,Painting Club,Art,Artist
+419,Mukesh,18,M,89,90,76,8.9,6.5,6.8,Engineering,Sports Team,Physics,Engineer
+420,Ragini,16,F,83,87,91,7.6,8,8.8,Literature,Drama Club,English,Journalist
+421,Sumit,17,M,87,89,79,8.5,6.6,7.2,Computer Science,Hackathon Team,Programming,AI Researcher
+422,Lalita,16,F,85,86,89,7.7,7.9,8.4,Medicine,Science Fair,Biology,Doctor
+423,Viraj,18,M,90,88,78,8.8,6.4,7.1,Engineering,Robotics Club,Chemistry,Engineer
+424,Shalini,17,F,79,81,88,6.9,7.7,8.5,Psychology,Volunteer Group,Psychology,Therapist
+425,Adarsh,16,M,89,90,77,8.6,6.5,7.3,Physics,Science Club,Physics,Physicist
+426,Pooja,17,F,86,88,90,7.8,8,8.3,Engineering,Music Band,Mathematics,Engineer
+427,Rajat,18,M,88,86,81,8.7,6.8,7,Data Science,Coding Club,Statistics,Data Scientist
+428,Komal,16,F,82,84,89,6.8,7.8,8.6,Biology,Environmental Club,Biology,Biologist
+429,Saurabh,17,M,90,91,76,8.9,6.4,6.9,Engineering,Sports Team,Physics,Engineer
+430,Neha,18,F,84,87,90,7.5,8.2,8.7,Literature,Book Club,English,Writer
+431,Vinod,16,M,88,92,78,9,6.6,7.1,Mathematics,Math Olympiad,Mathematics,Mathematician
+432,Anjali,17,F,85,89,91,7.7,7.9,8.2,Medicine,Volunteer Group,Biology,Surgeon
+433,Karan,18,M,87,85,80,8.6,6.7,7.4,Computer Science,Gaming Club,Programming,Game Developer
+434,Sneha,16,F,81,83,88,6.7,7.6,8.5,Psychology,Debate Team,Psychology,Psychologist
